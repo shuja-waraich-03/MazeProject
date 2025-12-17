@@ -204,4 +204,4 @@ Choose from three distinct maze generation algorithms:
 
 ---
 
-**Ready to test your maze navigation skills? Start your adventure and see how long you can survive in the ever-changing 3D mazes!** 
+**Developed by Aran Gain, Nairan Zargar, Shuja Waraich** 
